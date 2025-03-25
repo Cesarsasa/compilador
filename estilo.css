@@ -1,0 +1,29 @@
+body {
+  background-color: #faf9f9;
+  color: #200303;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #f5ef4c;
+  color: #161111;
+  padding: 10px;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f3f1f1;
+}
+
+tbody tr:hover {
+  background-color: #c0bebe;
+}
+
+td {
+  padding: 10px;
+}
